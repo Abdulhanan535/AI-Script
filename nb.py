@@ -4,7 +4,7 @@
 # In[ ]:
 
 
-Model = "https://huggingface.co/Lewdiculous/Violet_Magcap-12B-GGUF-IQ-Imatrix/resolve/main/Violet_Magcap-12B-Q8_0-imat.gguf" #@param[https://huggingface.co/mradermacher/L3-8B-Lunar-Stheno-GGUF/resolve/main/L3-8B-Lunar-Stheno.Q8_0.gguf]{allow-input: true}
+Model = "https://huggingface.co/mradermacher/Irix-12B-Model_Stock-GGUF/resolve/main/Irix-12B-Model_Stock.Q8_0.gguf" #@param[https://huggingface.co/mradermacher/L3-8B-Lunar-Stheno-GGUF/resolve/main/L3-8B-Lunar-Stheno.Q8_0.gguf]{allow-input: true}
 Layers = "99" #@param [99]{allow-input: true}
 ContextSize = "8192" # @param ["8192","4096", "16384"] {"allow-input":true}
 # SillyTavern extras
